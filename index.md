@@ -23,5 +23,7 @@
 
 ![Image of smurf cat](https://cdn.imgchest.com/files/my2pcavrjd7.jpg)
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
 
