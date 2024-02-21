@@ -26,4 +26,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-
+- [x] pull request created
+- [x] task 3 completed
+- [ ] task 4 ongoing
