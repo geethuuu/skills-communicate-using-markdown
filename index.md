@@ -20,3 +20,8 @@
 
 
 ###### I have edited index.md file with headers.
+
+![Image of smurf cat](https://cdn.imgchest.com/files/my2pcavrjd7.jpg)
+
+
+
